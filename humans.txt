@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Diego Rojas	diego@git.training @buitro 
 
 # THANKS
 
